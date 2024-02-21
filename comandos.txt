@@ -1,0 +1,17 @@
+Comandos de terminal 
+pwd = muestra localizacion del archivo
+touch nombre.txt = crear nuevos archivos
+mkdir = sirve para crear carpetas
+ls = lista los archivos y carpetas del directorio actual
+ls -l = lista los detalles de archivos y carpetas
+ls -a = lista todos los archivos y carpetas(incluyendo los ocultos)
+clear = limpia la pantalla de la terminal
+cd = permite cambiar de directorio
+cd.. = sube un nivel a carpeta superior, si tienes que subir mas niveles le agregas /..
+cd/ = la (/) indica la raiz de tu disco duro
+cd~ = directorio de trabajo de usuario
+rm nombre/ = elimina carpetas
+rm-r nombre/ = elimina carpeta y archivos 
+SHIFT+ALT+flecha= copia linea codigo
+ALT+flecha=mueve linea 
+Windows+. = Emojis
