@@ -8,4 +8,4 @@ Este es el repositorio de Rajid Luan Dokins Damiao con los contenidos de la mate
 
 - [Practica 3](https://github.com/RJDdd/Main.git)
 
-- [Practica 5](practica-5.md)
+- [Practica 5](https://github.com/RJDdd/VisualCode/blob/main/Pr%C3%A1ctica4/practica-5.md)
